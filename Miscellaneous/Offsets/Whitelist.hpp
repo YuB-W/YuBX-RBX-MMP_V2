@@ -5,7 +5,7 @@
 namespace Whitelist_Offsets
 {
 	// these offsets change every update
-	static const uintptr_t set_insert = 0xDA4E70;
-	static const uintptr_t Bitmap = 0x298668;
-	static const uintptr_t whitelist_page = 0x297EC8;
+	static const uintptr_t set_insert = 0xD868E0;
+	static const uintptr_t Bitmap = 0x2B6660;
+	static const uintptr_t whitelist_page = 0x2a2280;
 }
